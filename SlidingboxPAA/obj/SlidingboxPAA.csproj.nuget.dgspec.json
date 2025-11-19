@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\VSC\\PAA\\quiz2\\Quiz2DAA\\SlidingboxPAA\\SlidingboxPAA.csproj": {}
+    "D:\\PA\\Quiz2DAA\\SlidingboxPAA\\SlidingboxPAA.csproj": {}
   },
   "projects": {
-    "C:\\VSC\\PAA\\quiz2\\Quiz2DAA\\SlidingboxPAA\\SlidingboxPAA.csproj": {
+    "D:\\PA\\Quiz2DAA\\SlidingboxPAA\\SlidingboxPAA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\VSC\\PAA\\quiz2\\Quiz2DAA\\SlidingboxPAA\\SlidingboxPAA.csproj",
+        "projectUniqueName": "D:\\PA\\Quiz2DAA\\SlidingboxPAA\\SlidingboxPAA.csproj",
         "projectName": "SlidingboxPAA",
-        "projectPath": "C:\\VSC\\PAA\\quiz2\\Quiz2DAA\\SlidingboxPAA\\SlidingboxPAA.csproj",
-        "packagesPath": "C:\\Users\\Yoza\\.nuget\\packages\\",
-        "outputPath": "C:\\VSC\\PAA\\quiz2\\Quiz2DAA\\SlidingboxPAA\\obj\\",
+        "projectPath": "D:\\PA\\Quiz2DAA\\SlidingboxPAA\\SlidingboxPAA.csproj",
+        "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
+        "outputPath": "D:\\PA\\Quiz2DAA\\SlidingboxPAA\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Yoza\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0-windows"
@@ -38,7 +38,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0-windows7.0": {
@@ -57,19 +57,19 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[8.0.13, 8.0.13]"
+              "version": "[8.0.22, 8.0.22]"
             },
             {
               "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[8.0.13, 8.0.13]"
+              "version": "[8.0.22, 8.0.22]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
-              "version": "[8.0.13, 8.0.13]"
+              "version": "[8.0.22, 8.0.22]"
             },
             {
               "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[8.0.13, 8.0.13]"
+              "version": "[8.0.22, 8.0.22]"
             }
           ],
           "frameworkReferences": {
@@ -80,7 +80,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

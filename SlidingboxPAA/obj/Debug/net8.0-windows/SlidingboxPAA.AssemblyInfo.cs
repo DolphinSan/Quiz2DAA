@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SlidingboxPAA")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+278da0ac39203b19cf696177abcd2c55177fbf67")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+48278f5e3302bb859a7b4d0ebf369fe93360ed96")]
 [assembly: System.Reflection.AssemblyProductAttribute("SlidingboxPAA")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SlidingboxPAA")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
