@@ -1,0 +1,16 @@
+C:\Users\Kelvin\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\Projects\SlidingboxPAA\bin\Debug\net8.0-windows\SlidingboxPAA.exe
+C:\Users\Kelvin\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\Projects\SlidingboxPAA\bin\Debug\net8.0-windows\SlidingboxPAA.deps.json
+C:\Users\Kelvin\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\Projects\SlidingboxPAA\bin\Debug\net8.0-windows\SlidingboxPAA.runtimeconfig.json
+C:\Users\Kelvin\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\Projects\SlidingboxPAA\bin\Debug\net8.0-windows\SlidingboxPAA.dll
+C:\Users\Kelvin\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\Projects\SlidingboxPAA\bin\Debug\net8.0-windows\SlidingboxPAA.pdb
+C:\Users\Kelvin\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\Projects\SlidingboxPAA\obj\Debug\net8.0-windows\SlidingboxPAA.Form1.resources
+C:\Users\Kelvin\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\Projects\SlidingboxPAA\obj\Debug\net8.0-windows\SlidingboxPAA.csproj.GenerateResource.cache
+C:\Users\Kelvin\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\Projects\SlidingboxPAA\obj\Debug\net8.0-windows\SlidingboxPAA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelvin\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\Projects\SlidingboxPAA\obj\Debug\net8.0-windows\SlidingboxPAA.AssemblyInfoInputs.cache
+C:\Users\Kelvin\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\Projects\SlidingboxPAA\obj\Debug\net8.0-windows\SlidingboxPAA.AssemblyInfo.cs
+C:\Users\Kelvin\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\Projects\SlidingboxPAA\obj\Debug\net8.0-windows\SlidingboxPAA.csproj.CoreCompileInputs.cache
+C:\Users\Kelvin\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\Projects\SlidingboxPAA\obj\Debug\net8.0-windows\SlidingboxPAA.dll
+C:\Users\Kelvin\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\Projects\SlidingboxPAA\obj\Debug\net8.0-windows\refint\SlidingboxPAA.dll
+C:\Users\Kelvin\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\Projects\SlidingboxPAA\obj\Debug\net8.0-windows\SlidingboxPAA.pdb
+C:\Users\Kelvin\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\Projects\SlidingboxPAA\obj\Debug\net8.0-windows\SlidingboxPAA.genruntimeconfig.cache
+C:\Users\Kelvin\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\Projects\SlidingboxPAA\obj\Debug\net8.0-windows\ref\SlidingboxPAA.dll
