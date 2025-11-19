@@ -4,7 +4,50 @@ namespace Slidingbox.Core {
         public PuzzleSolver(int size = 3) {
             this.size = size;
         }
-        
+
+        public List<char>? Solve(int[] startTiles) {
+            var start = new PuzzleState(startTiles, size);
+            var goal = new PuzzleState(PuzzleBoard.SolvedTiles(size), size);
+
+            var open = new PriorityQueue<PuzzleState, int>();
+            var gScore = new Dictionary<PuzzleState, int>();
+            var cameFrom = new Dictionary<PuzzleState, (PuzzleState parent, char move)>();
+
+            gScore[start] = 0;
+            open.Enqueue(start, start.ManhattanDistance());
+
+            while (open.Count > 0) {
+                var current = open.Dequeue();
+                if (current.Equals(goal)) {
+                    var moves = new List<char>();
+                    var cur = current;
+                    while (cameFrom.ContainsKey(cur)) {
+                        var info = cameFrom[cur];
+                        moves.Add(info.move);
+                        cur = info.parent;
+                    }
+                    moves.Reverse();
+                    return moves;
+                }
+
+                int gcur = gScore[current];
+
+                foreach (var kv in current.Neighbors()) {
+                    var neighbor = kv.neighbor;
+                    char move = kv.move;
+                    int tentative = gcur + 1;
+                    if (!gScore.TryGetValue(neighbor, out int existing) || tentative < existing) {
+                        gScore[neighbor] = tentative;
+                        int f = tentative + neighbor.ManhattanDistance();
+                        open.Enqueue(neighbor, f);
+                        cameFrom[neighbor] = (current, move);
+                    }
+                }
+            }
+
+            return null;
+        }
+
         private class PuzzleState : IEquatable<PuzzleState> {
             public readonly int[] Tiles;
             private readonly int size;
